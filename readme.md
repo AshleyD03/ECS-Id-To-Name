@@ -3,7 +3,7 @@
 HELLO!!! Somebodies been going through the wiki, haven't you 😇 <br>
 This is my answer to week 1's challenge, that being : <br>
 ***Write a Java program which converts an ECS email name into a person's full name*** <br>
-My answer is a little long, but this is my first proper java program, so please be nice 😊. *Please be nice, im a JS programmer* 
+My answer is a little long, but this is my first proper java program, so please be nice 😊.
 
 ## How it works 
 
